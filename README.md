@@ -1,1 +1,1 @@
-This repository is about the libraries of the Python used for collection, manupilation and visualisation of the data.
+***This repository is about the libraries of Python used for the collection, manipulation, and visualization of data.***
